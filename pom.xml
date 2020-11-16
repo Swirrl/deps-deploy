@@ -3,12 +3,12 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>swirrl</groupId>
   <artifactId>deps-deploy</artifactId>
-  <version>0.1.5</version>
+  <version>0.1.6</version>
   <name>deps-deploy</name>
   <scm>
     <connection>scm:git:git://github.com/slipset/deps-deploy.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/slipset/deps-deploy.git</developerConnection>
-    <tag>0.1.5</tag>
+    <tag>0.1.6</tag>
     <url>https://github.com/swirrl/deps-deploy</url>
   </scm>
   <dependencies>
